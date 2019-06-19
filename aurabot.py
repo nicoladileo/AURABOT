@@ -4,7 +4,7 @@ import csv
 import distance
 import datetime
 
-TOKEN = '838127239:AAGJ1f6vDt7XCDkdehmkX_ziy0DAZOcDaL4'
+TOKEN = ''
 COMMANDS = ['/avellino','/benevento','/caserta','/napoli','/salerno']
 DEFAULT_MESSAGE = '''Comando non riconosciuto.
 Per interagire con il bot invia la tua posizione o digita uno dei seguenti comandi:
